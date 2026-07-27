@@ -1,0 +1,12 @@
+python-learning/
+
+│
+├── Day01/
+│     hello.py
+│     variables.py
+│     datatypes.py
+│     operators.py
+│     strings.py
+│     assignment.md
+│
+└── README.md
